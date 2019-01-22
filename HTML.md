@@ -5,6 +5,11 @@ Watch this video on ["Introduction to HTML"](https://scrimba.com/p/pZaVfV/cQr3mf
 Read up on ["Introduction to HTML"](https://www.w3schools.com/html/html_intro.asp)
 
 
+## Template
+![Homepage theme](HomepageTheme.png)
+
+
+
 ## Challenge 1: Setup the development environment
 ### Resources
 - Setup any of the following editors ["Atom"](https://atom.io/), ["Sublime"](https://www.sublimetext.com/3) or ["VS Code"](https://code.visualstudio.com/docs/setup/setup-overview)
