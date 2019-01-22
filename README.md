@@ -19,4 +19,5 @@ Client X just opened a new line of male and female shoes called Grande.
 They want an E-commerce website for project Grande.
 They would like the home page to look like this:
 
+![Homepage theme](HomepageTheme.png)
 
