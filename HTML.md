@@ -51,7 +51,7 @@ Read up on ["Introduction to HTML"](https://www.w3schools.com/html/html_intro.as
 - Add formatted texts over the image on the Home page 
   - Read up on ["How to position texts over an image"](https://www.w3schools.com/howto/howto_css_image_text.asp)
   - Watch this video on ["Head Elements and Scripts"](https://scrimba.com/p/pZaVfV/c3W7QS8)  
-- Add a button below the formatted textx over the image
+- Add a button below the formatted texts over the image
   - Read up on ["HTML Button"](https://www.w3schools.com/tags/tag_button.asp)
   
 
