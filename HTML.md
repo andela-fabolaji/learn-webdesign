@@ -32,7 +32,7 @@ Read up on ["Introduction to HTML"](https://www.w3schools.com/html/html_intro.as
   
   
 ## Challenge 3: Design the layout for the home page
-### Activities
+### Activity
 - Watch the videos below to learn how to set the layout elements.
   - ["Layout Elements"](https://scrimba.com/p/pZaVfV/cWNRbCR)
   - ["Nesting Elements"](https://scrimba.com/p/pZaVfV/cQ4z8sM)
@@ -41,7 +41,14 @@ Read up on ["Introduction to HTML"](https://www.w3schools.com/html/html_intro.as
 
   
   
-  
+## Challenge 4: Add pictures to your home page
+### Activities
+- Add a picture to the Home page
+  - Read up on ["HTML Images"](https://www.w3schools.com/html/html_images.asp)
+  - Watch this video on ["Figure & Image Elements"](https://scrimba.com/p/pZaVfV/c42D8uv) 
+- 
+  - Read up on ["HTML Styles"](https://www.w3schools.com/html/html_styles.asp)
+  - Watch this video on ["Head Elements and Scripts"](https://scrimba.com/p/pZaVfV/c3W7QS8)  
   
 
    
