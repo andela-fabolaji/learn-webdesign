@@ -21,3 +21,4 @@ They would like the home page to look like this:
 
 ![Homepage theme](HomepageTheme.png)
 
+Let's have a look at our first set of tasks in HTML.
