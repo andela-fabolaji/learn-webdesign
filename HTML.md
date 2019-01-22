@@ -1,12 +1,15 @@
 # Introduction
-HTML stands for Hyper Text Markup Language. It uses markup to describe the structure of web pages.
-
-Watch this video on ["Introduction to HTML"](https://scrimba.com/p/pZaVfV/cQr3mfM)
-Read up on ["Introduction to HTML"](https://www.w3schools.com/html/html_intro.asp)
+Replicate the template below with these 5 challenges
 
 
 ## Template
 ![Homepage theme](HomepageTheme.png)
+
+
+Let's start with an Introduction to HTML
+Watch this video on ["Introduction to HTML"](https://scrimba.com/p/pZaVfV/cQr3mfM)
+Read up on ["Introduction to HTML"](https://www.w3schools.com/html/html_intro.asp)
+
 
 
 
