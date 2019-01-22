@@ -1,4 +1,4 @@
-# learn-webdesign
+# Learn Webdesign
 Do you have a busy work or life schedule? Will you like to learn web development by taking up daiy or weekly tasks or challenges? Then this curriculum is for you.
 
 
@@ -15,4 +15,8 @@ Let's have a look at the project
 
 
 ## Project
-Client X has made a request for a website that looks exactly like their current website with just a few changes. We don't know why they want to do that but 
+Client X just opened a new line of male and female shoes called Grande.
+They want an E-commerce website for project Grande.
+They would like the home page to look like this:
+
+
