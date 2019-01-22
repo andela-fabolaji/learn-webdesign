@@ -15,12 +15,14 @@ Read up on ["Introduction to HTML"](https://www.w3schools.com/html/html_intro.as
 - Create the HTML document and name it **Home**
 
 
+
 ## Challenge 2: Build the website header
 ### Activities
 - Set the title of the site to **"Grande Shoes"** using the <title> element.
 - Set the background and text color using the <style element>
   - Read up on ["HTML Head"](https://www.w3schools.com/html/html_head.asp)
   - Watch this video on ["Head Elements and Scripts"](https://scrimba.com/p/pZaVfV/c3W7QS8)
+  
   
 - Set the 
   - Read up on ["HTML Elements"](https://www.w3schools.com/html/html_elements.asp)  
