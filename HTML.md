@@ -33,23 +33,36 @@ Read up on ["Introduction to HTML"](https://www.w3schools.com/html/html_intro.as
   
 ## Challenge 3: Design the layout for the home page
 ### Activity
-- Watch the videos below to learn how to set the layout elements.
-  - ["Layout Elements"](https://scrimba.com/p/pZaVfV/cWNRbCR)
-  - ["Nesting Elements"](https://scrimba.com/p/pZaVfV/cQ4z8sM)
+- Set the layout elements.
+  - Watch this video on ["Layout Elements"](https://scrimba.com/p/pZaVfV/cWNRbCR)
+  - Watch this video on ["Nesting Elements"](https://scrimba.com/p/pZaVfV/cQ4z8sM)
   - Read up on ["HTML Layouts"](https://www.w3schools.com/html/html_layout.asp)
   - Read up on ["HTML Elements"](https://www.w3schools.com/html/html_elements.asp) 
+- Set the Navbar and list items
+  - Watch this video on ["Navbar and List Items"](https://scrimba.com/p/pZaVfV/cpb9DtW)
 
   
   
-## Challenge 4: Add pictures to your home page
+## Challenge 4: Add multimedia to the Home page
 ### Activities
 - Add a picture to the Home page
   - Read up on ["HTML Images"](https://www.w3schools.com/html/html_images.asp)
   - Watch this video on ["Figure & Image Elements"](https://scrimba.com/p/pZaVfV/c42D8uv) 
-- 
-  - Read up on ["HTML Styles"](https://www.w3schools.com/html/html_styles.asp)
+- Add formatted texts over the image on the Home page 
+  - Read up on ["How to position texts over an image"](https://www.w3schools.com/howto/howto_css_image_text.asp)
   - Watch this video on ["Head Elements and Scripts"](https://scrimba.com/p/pZaVfV/c3W7QS8)  
+- Add a button below the formatted textx over the image
+  - Read up on ["HTML Button"](https://www.w3schools.com/tags/tag_button.asp)
   
 
    
-  
+ ## Challenge 5: Format texts on the Home page
+### Activities
+- Play around with headings
+  - Watch this video on ["Headings"](https://scrimba.com/p/pZaVfV/cMK3VHQ) 
+  - Read up on ["HTML Headings"](https://www.w3schools.com/html/html_headings.asp)
+- Add paragraphs below the images 
+  - Watch this video on ["Paragraph & Text Formatting"](https://scrimba.com/p/pZaVfV/cN8yJCB)  
+  - Watch this video on ["Text Formatting - Part 2"](https://scrimba.com/p/pZaVfV/cvJQatb)  
+  - Read up on ["HTML Paragraphs"](https://www.w3schools.com/html/html_paragraphs.asp)
+   
