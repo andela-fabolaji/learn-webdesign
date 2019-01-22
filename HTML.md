@@ -15,4 +15,9 @@ Read up on ["Introduction to HTML"](https://www.w3schools.com/html/html_intro.as
 - Create the HTML document and name it **Home**
 
 
-## Challenge 2: 
+## Challenge 2: Build the website header
+### Activities
+The Title of the site should be **"Grande Shoes"**
+- Watch this video on ["Nesting Elements"](https://scrimba.com/p/pZaVfV/cQ4z8sM)
+
+- Watch this video on ["Head Elements and Scripts"](https://scrimba.com/p/pZaVfV/c3W7QS8)
