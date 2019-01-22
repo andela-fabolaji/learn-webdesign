@@ -7,6 +7,7 @@ Replicate the template below with these 5 challenges
 
 
 Let's start with an Introduction to HTML
+
 Watch this video on ["Introduction to HTML"](https://scrimba.com/p/pZaVfV/cQr3mfM)
 Read up on ["Introduction to HTML"](https://www.w3schools.com/html/html_intro.asp)
 
