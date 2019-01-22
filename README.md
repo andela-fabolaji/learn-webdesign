@@ -7,7 +7,7 @@ Techsavvy Limited needs your help. They just took up a web design project for a 
 
 They would like you hop on board by replacing the developer. They know you don't have much experience with coding and will do their best in providing the best resources you need to work on your tasks. 
 
-You will work as the front end developer on the project until the front end guy recovers fully and comes back to work. (That is if the front end guy still has his job when he gets back) 
+You will work as the front end developer on the project until the front end guy recovers fully and comes back to work. (That is if the front end guy still has his job when he gets back) Let's work towards ensuring he doesn't.
 
 Let's have a look at the project
 
