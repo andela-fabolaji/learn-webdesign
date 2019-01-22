@@ -17,7 +17,11 @@ Read up on ["Introduction to HTML"](https://www.w3schools.com/html/html_intro.as
 
 ## Challenge 2: Build the website header
 ### Activities
-- The Title of the site should be **"Grande Shoes"**
-- - Watch this video on ["Nesting Elements"](https://scrimba.com/p/pZaVfV/cQ4z8sM)
-
+- Set the title of the site to **"Grande Shoes"** using the <title> element.
+- Set the background and text color using the <style element>
+- - Read up on ["HTML Head"](https://www.w3schools.com/html/html_head.asp)
 - - Watch this video on ["Head Elements and Scripts"](https://scrimba.com/p/pZaVfV/c3W7QS8)
+  
+- 
+- - Read up on ["HTML Elements"](https://www.w3schools.com/html/html_elements.asp)  
+- - Watch this video on ["Nesting Elements"](https://scrimba.com/p/pZaVfV/cQ4z8sM)
